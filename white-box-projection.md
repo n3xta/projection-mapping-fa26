@@ -4,9 +4,9 @@ I chose NYC as my theme.
 
 My initial plan was to transform the box into different iconic NYC objects and symbols, but in the end I didn't have much time to create all the contents (and I don't want to use AI). 
 
--[x] Trains
--[ ] Buildings
--[ ] Pigeons
+- [x] Trains
+- [ ] Buildings
+- [ ] Pigeons
 ...
 
 I took some footages of a moving train and its front view. At least the box can transform into an M train now :)
