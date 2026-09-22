@@ -11,7 +11,11 @@ My initial plan was to transform the box into different iconic NYC objects and s
 
 I took some footages of a moving train and its front view. At least the box can transform into an M train now :)
 
-I wanted to 
+I wanted to rotate the train front view at first, but I didn't find a very smooth way of doing so, since the train faces are taken in different lights and enviornments.
+
+
+<img width="114" height="183" alt="image" src="https://github.com/user-attachments/assets/f0bda5a4-49b9-446c-86f5-ac63c70ba019" />
+
 
 # Setup
 
